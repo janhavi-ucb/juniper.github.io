@@ -44,16 +44,14 @@ To effectively filter out private data, it's imperative to establish a clear fra
 
 #### MVP Scope
 
-Add information
-
-#### Further Reading
-Add references if required.
-
+Our MPV encompasses three primary objectives, each crucial for ensuring the effectiveness and user-friendliness of our system. Firstly, we aim to implement robust measures to redact or replace private data within prompts before they are transmitted to an open-source model, such as OpenAI. This step is essential for safeguarding the privacy of individuals and complying with data protection regulations. Secondly, we strive to maintain the integrity of the diagnostic process by ensuring that the final diagnosis remains consistent between the original prompt and the treated prompt. This consistency is vital for instilling confidence in the accuracy and reliability of our system. Finally, we prioritize user autonomy by allowing them the freedom to intervene and modify the treated prompt before it is submitted to an open-source model. Empowering users in this manner not only enhances their sense of control and trust but also enables them to tailor the diagnostic process to their specific preferences or requirements. Overall, by addressing these three key aspects, our MPV aims to deliver a comprehensive and user-centric solution for medical diagnosis while upholding privacy and accuracy standards.
 
 ### Data Sources
 Add links to datasets
 
 ### About Presidio
+
+### The Two Tower Approach
 
 ### Evaluation
 
