@@ -1,4 +1,4 @@
-# JUNIPER: Proxy Interface for Large Language Model Interaction
+# JUNIPER: Privacy Interface for Large Language Model Interaction
 
 ## Mission Statement
 
