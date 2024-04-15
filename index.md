@@ -36,6 +36,8 @@ The following sections provide additional detail on the need for our project, as
 
 There is a pervasive concern regarding privacy breaches and data exposure when utilizing LLMs-based services. Users may inadvertently divulge sensitive information in their LLM prompts, which is then shared with LLM providers and potentially used elsewhere. Moreover, organizations face stringent regulations, like GDPR, governing the handling of personal data. Additionally, conventional data anonymization methods, aimed at safeguarding privacy, often inadvertently undermine the effectiveness of downstream tasks.  
 
+![""](images/background.png)
+
 The application of open-source LLMs in medical diagnosis represents an important initial proof of concept, particularly given the vast amounts of private data involved in healthcare. By leveraging these language models, medical professionals can potentially improve diagnostic accuracy and efficiency. However, the prospect of utilizing such technologies also raises concerns about the security and privacy of sensitive medical data. Hence, we have Juniper as a proxy interface to prevent any private data from being stored or utilized by LLMs while they work to the best of their efficiency.
 
 #### Levels of Privacy
