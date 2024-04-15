@@ -44,16 +44,28 @@ The application of open-source LLMs in medical diagnosis represents an important
 
 #### Levels of Privacy
 
-To effectively filter out private data, it's imperative to establish a clear framework delineating different levels of privacy. Our approach involves categorizing private data into four distinct levels, each accompanied by commonly recognized descriptors. Within these levels, we pinpoint the specific types of data pertinent to our Minimum Viable Product (MVP). For instance, Level 1 encompasses personally identifiable information such as names, addresses, email addresses, and phone numbers. Moving up to Level 2, we consider more sensitive data like nationality, political opinions, and religious beliefs. Level 3 focuses on critical personal details like date of birth, while Level 4 is dedicated to safeguarding business secrets, encompassing any proprietary data belonging to organizations that should not be disclosed publicly. This meticulous categorization enables us to precisely identify and filter out sensitive information, ensuring robust privacy protection measures within our system.
+To effectively filter out private data, it's imperative to establish a clear framework delineating different levels of privacy. Our approach involves categorizing private data into four distinct levels, each accompanied by commonly recognized descriptors. Within these levels, we pinpoint the specific types of data pertinent to our Minimum Viable Product (MVP). 
+
+<p align="center">
+  <img src="./images/privacy_levels.png" />
+</p>
 
 #### MVP Scope
 
 Our MPV encompasses three primary objectives, each crucial for ensuring the effectiveness and user-friendliness of our system. Firstly, we aim to implement robust measures to redact or replace private data within prompts before they are transmitted to an open-source model, such as OpenAI. This step is essential for safeguarding the privacy of individuals and complying with data protection regulations. Secondly, we strive to maintain the integrity of the diagnostic process by ensuring that the final diagnosis remains consistent between the original prompt and the treated prompt. This consistency is vital for instilling confidence in the accuracy and reliability of our system. Finally, we prioritize user autonomy by allowing them the freedom to intervene and modify the treated prompt before it is submitted to an open-source model. Empowering users in this manner not only enhances their sense of control and trust but also enables them to tailor the diagnostic process to their specific preferences or requirements. Overall, by addressing these three key aspects, our MPV aims to deliver a comprehensive and user-centric solution for medical diagnosis while upholding privacy and accuracy standards.
 
 ### Data Sources
-Add links to datasets
+We used multiple datasets to address this complex privacy preservation compute problem for LLMs. 
+<p align="center">
+  <img src="./images/dataset.png" />
+</p>
 
 ### About Presidio
+We leveraged Microsoft's Presidio as an accelerator for our orchestration framework to analyze and anonymize private data. Presidio allows users to preserve privacy in a simpler way by democratizing de-identification technologies and introducing transparency in decisions. It is extensible and customizable to specific business requirements. We chose presidio to leverage the Named Entity Recognition, regular expressions, rule based logic and checksum with relevant context in multiple languages. Further it also allows for integration with open-sourced (e.g. Hugging Face), internally developed models and/or codebases to analyze and anonymize private data.
+
+<p align="center">
+  <img src="./images/presidio.png" />
+</p>
 
 ### The Two Tower Approach
 
