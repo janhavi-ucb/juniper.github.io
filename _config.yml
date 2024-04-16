@@ -11,14 +11,14 @@ minimal_mistakes_skin    : "dark"
 # Site Settings
 locale                   : "en-US"
 title                    : "Juniper"
-title_separator          : "Privacy Interface for Large Language Model Interaction"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "-"
+subtitle                 : "Privacy Interface for Large Language Model Interaction
 name                     : "team-juniper"
 description              : "Capstone 2024"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "juniper.github.io"
+teaser                   : "images/bg_img.png"
 logo                     : "images/JuniperLogo_Transparent.PNG"
 
 # Plugins (previously gems:)
