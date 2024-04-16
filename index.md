@@ -1,4 +1,4 @@
-<div><h1>JUNIPER : Privacy Interface for Large Language Model Interaction</h1></div>
+<div style='background-image: url("/images/bg_img.png")';><h1>JUNIPER : Privacy Interface for Large Language Model Interaction</h1></div>
 
 ## Mission Statement
 
