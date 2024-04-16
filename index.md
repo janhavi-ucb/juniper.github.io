@@ -1,4 +1,3 @@
-# JUNIPER: Privacy Interface for Large Language Model Interaction
 
 ## Mission Statement
 
@@ -6,7 +5,9 @@
 
 ## Team
 
-![""](images/team.png)
+<p align="center">
+  <img src="./images/team.png" />
+</p>
 
 ## Project
 
