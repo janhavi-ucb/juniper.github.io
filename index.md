@@ -20,7 +20,7 @@ You can explore our product here, [Juniper](link).
 
 ## Testimonials
 
-We have shared our product with potential users, and have had encouraging feedback, including the following quotations from stakeholders at our primary partner organizations.
+We have shared our product with potential users, and have had encouraging feedback, including the following quotations from stakeholders at our primary partner organizations. 
 
 > *“Add feedback1”*
 >
@@ -70,6 +70,12 @@ We leveraged Microsoft's Presidio as an accelerator for our orchestration framew
 </p>
 
 ### The Two Tower Approach
+We referred to RAG and Two towers and extended the framework with our very own proprietary blacklist, embedding model and a vector database. Retrieval Augmented 
+Generation (RAG) serves the purpose of retrieving relevant information to augment the prompt while Two towers are useful for publishing recommendations based on user activity on scale. Combining these two in Juniper we were able to check if the prompt contains sensitive information based on a blacklist. The following diagram helps explain the architecture better.
+
+<p align="center">
+  <img src="./images/two_towers.png" />
+</p>
 
 ### Evaluation
 
