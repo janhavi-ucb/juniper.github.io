@@ -17,7 +17,7 @@ name                     : "team-juniper"
 description              : "Capstone 2024"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "janhavi-ucb/juniper.github.io"
+repository               : "https://github.com/janhavi-ucb/juniper.github.io/tree/juniper-frontend"
 teaser                   : "images/bg_img.png"
 logo                     : "images/JuniperLogo_Transparent.PNG"
 # Plugins (previously gems:)
