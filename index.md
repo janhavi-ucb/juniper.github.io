@@ -1,4 +1,3 @@
-<div><h1> JUNIPER: Privacy Interface for Large Language Model Interaction </h1></div>
 
 ## Mission Statement
 
