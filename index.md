@@ -1,4 +1,4 @@
-# JUNIPER : Privacy Interface for Large Language Model Interaction
+<div><h2>JUNIPER : Privacy Interface for Large Language Model Interaction</h2></div>
 ## Mission Statement
 
 **At our core, we are committed to enabling individuals and organizations unlock the vast potential of Large Language Models by steadfastly upholding the paramount importance of privacy.**
