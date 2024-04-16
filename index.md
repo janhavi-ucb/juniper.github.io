@@ -74,7 +74,7 @@ We referred to RAG and Two towers and extended the framework with our very own p
 Generation (RAG) serves the purpose of retrieving relevant information to augment the prompt while Two towers are useful for publishing recommendations based on user activity on scale. Combining these two in Juniper we were able to check if the prompt contains sensitive information based on a blacklist. The following diagram helps explain the architecture better.
 
 <p align="center">
-  <img src="./images/two_towers.png" />
+  <img src="./images/two_towerpng" />
 </p>
 
 ### Evaluation
