@@ -20,18 +20,6 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "janhavi-ucb/juniper.github.io"
 logo                     : "images/JuniperLogo_Transparent.PNG"
 
-navigation_header:
-- title: Home
-  url: /
-- title: Abut Us
-  url: /elements/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
-
 footer:
   links:
     - label: "Twitter"
