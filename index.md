@@ -2,7 +2,7 @@
 
 ## Mission Statement
 
-**At our core, we are committed to enabling individuals and organizations unlock the vast potential of Large Language Models by steadfastly upholding the paramount importance of privacy.**
+*At our core, we are committed to enabling individuals and organizations unlock the vast potential of Large Language Models by steadfastly upholding the paramount importance of privacy.*
 
 ## Team
 
