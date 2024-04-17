@@ -78,7 +78,17 @@ Generation (RAG) serves the purpose of retrieving relevant information to augmen
 </p>
 
 ### Evaluation
+We conducted two separate evaluations to measure the performance of our product, including the following:
+* Evaluation 1: Confirm that all private data points are properly recognized by Analyzer and treated by Anonymizer
+* Evaluation 2: Confirm that the OpenAI responses for the original prompts and the treated prompts are comparable
+<p align="center">
+  <img src="./images/evaluation.png" />
+</p>
 
-### Final Output
+### Future Scope
+Given the early success in our MVP, we are optimistic about the future of this product and foresee the following landmarks.
+<p align="center">
+  <img src="./images/future.png" />
+</p>
 
 ---
