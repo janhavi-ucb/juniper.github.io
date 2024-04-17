@@ -91,4 +91,5 @@ Given the early success in our MVP, we are optimistic about the future of this p
 * Apply Juniper across industries (i.e. legal papers, document translation within private corporations, etc.) Proof of concept for Juniper is done using medical diagnosis.
 * Partner with LLMs specializing in target customer needs (i.e. leading edge medical diagnosis LLM in proof of concept) to provide a complete product to users.
 * Integrate into a hospital or local doctor’s office for continuous trials and user feedback.
+
 ---
