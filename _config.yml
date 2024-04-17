@@ -18,11 +18,10 @@ description              : "Capstone 2024"
 url                      : "https://janhavi-ucb.github.io"
 baseurl                  : "/juniper.github.io/"
 repository               : "https://github.com/janhavi-ucb/juniper.github.io"
+teaser                   : "images/bg_img.png"
 logo                     : "images/JuniperLogo_Transparent.PNG"
 masthead_title           : "JUNIPER: Privacy Interface for Large Language Model Interaction
-
-header:
-  teaser                   : "images/bg_img.png"
+  
 
 # Plugins (previously gems:)
 plugins:
