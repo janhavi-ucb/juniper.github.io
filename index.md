@@ -16,7 +16,7 @@ Our project, JUNIPER is a proxy interface that enables individuals and organizat
 
 ## Product
 
-You can explore our product here, [Juniper](link).
+You can explore our product here, [Juniper](http://52.43.3.153:8000/).
 
 ## Testimonials
 
