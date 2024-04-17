@@ -12,7 +12,7 @@
 
 ## Project
 
-Our project, JUNIPER is a proxy interface for that enables individuals and organizations to unlock the vast potential of Large Language Models (LLMs) by upholding user or organization privacy. It is applied to medical diagnosis for initial proof of concept, where large quantities of private data are present. Individuals and companies should no longer fear sensitive data leaks and utilize the power of open-source LLMs.
+Our project, JUNIPER is a proxy interface that enables individuals and organizations to unlock the vast potential of Large Language Models (LLMs) by upholding user or organization privacy. It is applied to medical diagnosis for initial proof of concept, where large quantities of private data are present. Individuals and companies should no longer fear sensitive data leaks and utilize the power of open-source LLMs.
 
 ## Product
 
@@ -20,11 +20,11 @@ You can explore our product here, [Juniper](link).
 
 ## Testimonials
 
-We have shared our product with potential users, and have had encouraging feedback, including the following quotations from stakeholders at our primary partner organizations. 
+We have shared our product with potential users, and have had encouraging feedback, including the following quotations from different users who participated in sharing their feedback.
 
-> *“Add feedback1”*
+> *“As a physician, I value patient privacy. Too much private information is accidentally provided on the internet for desperate patients looking for answers. Juniper is an outstanding product that allows people to seek answers without compromising privacy.”*
 >
-> *- Person1,organisation*
+> *- Person1*
 
 > *“Add feedback2”*
 >
@@ -87,8 +87,8 @@ We conducted two separate evaluations to measure the performance of our product,
 
 ### Future Scope
 Given the early success in our MVP, we are optimistic about the future of this product and foresee the following landmarks.
-<p align="center">
-  <img src="./images/future.png" />
-</p>
-
+* Allow for more user interaction, allow user profiles to set PII preferences and toggle what PII is important.
+* Apply Juniper across industries (i.e. legal papers, document translation within private corporations, etc.) Proof of concept for Juniper is done using medical diagnosis.
+* Partner with LLMs specializing in target customer needs (i.e. leading edge medical diagnosis LLM in proof of concept) to provide a complete product to users.
+* Integrate into a hospital or local doctor’s office for continuous trials and user feedback.
 ---
