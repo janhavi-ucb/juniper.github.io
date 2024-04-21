@@ -26,9 +26,9 @@ We have shared our product with potential users, and have had encouraging feedba
 >
 > *- Person1*
 
-> *“Add feedback2”*
+> *I personally think this is a great step in the right direction. The biggest thing hindering AI integration in modern day companies is the risk of privacy and data leaks. The cons of not havingprivate and secure learning outweighs the pros of AI, and having tools such as Juniper, can prove massively to boost adoption and bring more players in the field to adopt AI in their workflows. Juniper is a game changer for privacy and I am all for it!”*
 >
-> *- Person2,organisation*
+> *- Person2*
 
 ## Process
 
