@@ -96,7 +96,7 @@ Given the early success in our MVP, we are optimistic about the future of this p
 <center>
  <iframe width="560" 
          height="315" 
-         src="[YOUTUBE_LINK](https://youtu.be/E4gLJpDPNvU)" 
+         src="https://youtu.be/E4gLJpDPNvU" 
          title="YouTube video player" 
          frameborder="0" 
          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
