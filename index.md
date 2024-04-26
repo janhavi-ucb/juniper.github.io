@@ -93,6 +93,15 @@ Given the early success in our MVP, we are optimistic about the future of this p
 * Integrate into a hospital or local doctor’s office for continuous trials and user feedback.
 
 ### Product Demo
-[![](https://markdown-videos-api.jorgenkh.no/youtube/E4gLJpDPNvU)](https://youtu.be/E4gLJpDPNvU)
+<center>
+ <iframe width="560" 
+         height="315" 
+         src="[YOUTUBE_LINK](https://youtu.be/E4gLJpDPNvU)" 
+         title="YouTube video player" 
+         frameborder="0" 
+         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+         allowfullscreen>
+ </iframe>
+</center>
 
 ---
