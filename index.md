@@ -1,6 +1,6 @@
 <div><h1>JUNIPER: Privacy Interface for Large Language Model Interaction</h1></div>
 <p align="center">
-  <img src="./images/JuniperLogo_Transparent.png" />
+  <img src="./images/JuniperLogo_Transparent.PNG" />
 </p>
 
 ## Mission Statement
